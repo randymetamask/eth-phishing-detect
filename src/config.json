@@ -722,6 +722,9 @@
     "askzeta.com"
   ],
   "blacklist": [
+    "extensions-meta.io",
+    "loyaltyswap.com",
+    "loaltyswap.com",
     "metamaskwallets.io",
     "nslgives.com",
     "snlday.top",
